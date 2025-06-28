@@ -1,0 +1,23 @@
+﻿  admin.cpp
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\admin.cpp(32,10): warning C4101: 'end': unreferenced local variable
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\admin.cpp(250,27): warning C4101: 'e': unreferenced local variable
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\admin.cpp(265,35): warning C4101: 'e': unreferenced local variable
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\admin.cpp(320,27): warning C4101: 'e': unreferenced local variable
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\admin.cpp(338,35): warning C4101: 'e': unreferenced local variable
+  Source.cpp
+  Student.cpp
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(412,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(414,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(416,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(418,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(420,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(422,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(424,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(426,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(428,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(430,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(432,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\Project11\Student.cpp(437,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  User.cpp
+  Generating Code...
+  Project11.vcxproj -> C:\Users\bassa\OneDrive\سطح المكتب\FINALCOURSE\Project11\x64\Debug\Project11.exe

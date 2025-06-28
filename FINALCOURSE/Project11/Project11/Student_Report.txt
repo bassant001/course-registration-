@@ -1,0 +1,13 @@
+===============================
+Student Name:  Aya
+Student ID:    1010
+-------------------------------
+Completed Courses & Grades:
+Course Name         Semester       Grade     
+---------------------------------------------
+Machine Learning    1              20 [F]
+English 1           1              90 [A-]
+Intro               1              80 [B]
+-------------------------------
+CGPA:          1.82
+===============================
