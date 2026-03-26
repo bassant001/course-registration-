@@ -157,6 +157,8 @@ g++ main.cpp -o system
   * Admin module
   * Data storage layer
 
+- Collaborated with team members by assisting in debugging and improving some parts of the system.
+
     
 ---
 
